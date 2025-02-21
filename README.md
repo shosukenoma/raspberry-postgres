@@ -1,5 +1,5 @@
 # raspberry-postgres
-Experiment to run a postgres server on raspberry pi
+Experiment to run a postgres server on the cloud
 
 MariaDB Example:\
 https://dzone.com/articles/set-up-a-dedicated-database-server-on-raspberry
@@ -10,3 +10,8 @@ I want to try and work with cloud-based databases (Postgres on AWS), and then tr
 Keywords:
 - Securing the database server
 - Postgres.js
+
+- Cloud
+- Raspberry Pi (Same Wi-Fi network)
+- Raspberry Pi (Different network by using Port Forwarding)
+- Hybrid between on-premise and cloud.
