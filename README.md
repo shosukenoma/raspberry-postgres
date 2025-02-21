@@ -12,6 +12,8 @@ Keywords:
 - Postgres.js
 
 - Cloud
+ - SQL Database (Amazon RDS for PostgreSQL)
+ - NoSQL Database (MongoDB Atlas)
 - Raspberry Pi (Same Wi-Fi network)
 - Raspberry Pi (Different network by using Port Forwarding)
 - Hybrid between on-premise and cloud.
