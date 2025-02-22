@@ -17,3 +17,7 @@ Keywords:
 - Raspberry Pi (Same Wi-Fi network)
 - Raspberry Pi (Different network by using Port Forwarding)
 - Hybrid between on-premise and cloud.
+
+- AWS Postgres
+ - shos
+ - getshitdone
